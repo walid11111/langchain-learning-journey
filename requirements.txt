@@ -1,0 +1,19 @@
+langchain_groq
+dotenv
+langchain
+langchain_community
+pypdf
+pdfplumber
+bs4
+selenium
+webdriver-manager
+unstructured
+sentence-transformers
+chromadb sentence-transformers
+langchain-experimental
+wikipedia
+faiss-cpu
+
+
+ #pip install -U langchain-experimental
+# python -m pip install -r requirements.txt
