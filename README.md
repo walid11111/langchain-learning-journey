@@ -29,4 +29,4 @@ To build a strong foundation in **LLM-powered applications** and **Retrieval-Aug
 ---
 
 👨‍💻 **Author:** Waleed Khan  
-🎓 BS Artificial Intelligence (6th Semester)
+🎓 BS computer Science specialization in Artificial Intelligence.
